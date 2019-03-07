@@ -1,2 +1,1 @@
-# playcafe
-first website
+# playcafe.github.io
